@@ -1,0 +1,39 @@
+.bottomLiCont {
+  width: 32%;
+  margin-right: 10px;
+  background-color: #7e858e;
+  border-radius: 10px;
+  padding: 12px;
+  color: white;
+}
+.bottomLiTopCont {
+  display: flex;
+  align-items: center;
+}
+.bottomLiImage {
+  height: 40px;
+  width: 40px;
+  margin-right: 6px;
+}
+.bottomRightCont {
+  display: flex;
+  flex-direction: column;
+}
+.bottomLiLastCont {
+  display: flex;
+  align-items: center;
+}
+.bottomLiEmployeePara {
+  margin-left: 4px;
+}
+.bottomLocationPara {
+  margin-left: 6px;
+  margin-right: 10px;
+}
+.bottomRightBottomCont {
+  display: flex;
+  align-items: center;
+}
+.bottomRatingPara {
+  margin-left: 4px;
+}

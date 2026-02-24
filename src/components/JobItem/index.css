@@ -1,0 +1,67 @@
+.ItemMainCont {
+  color: white;
+  background-color: black;
+  padding: 30px;
+}
+.mainTopCont {
+  background-color: #7e858e;
+  padding: 20px;
+  border-radius: 10px;
+}
+.itemMainTopCont {
+  display: flex;
+}
+.itemMainImage {
+  height: 40px;
+  width: 40px;
+  margin-right: 6px;
+}
+.itemTopRighCont {
+  display: flex;
+  align-items: center;
+}
+.itemRatingPara {
+  margin-left: 6px;
+}
+.itemMiddleCont {
+  display: flex;
+  justify-content: space-between;
+}
+.itemMiddleLeftCont {
+  display: flex;
+  align-items: center;
+}
+.itemLocationPara {
+  margin-left: 6px;
+  margin-right: 10px;
+}
+.itemEmployeePara {
+  margin-left: 4px;
+}
+.itemMiddleInnerCont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.skillsUlCont {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.itemMiddleLifeCont {
+  display: flex;
+  justify-content: space-between;
+}
+.itemMiddleTextPara {
+  width: 62%;
+}
+.itemMiddleImageCont {
+  width: 32%;
+}
+.itemBottomUlCont {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  list-style-type: none;
+}

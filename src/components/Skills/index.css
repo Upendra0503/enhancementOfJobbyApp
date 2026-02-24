@@ -1,0 +1,11 @@
+.skillsLiCont {
+  display: flex;
+  align-items: center;
+  width: 30%;
+  margin-bottom: 20px;
+}
+.skillsLiImage {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+}

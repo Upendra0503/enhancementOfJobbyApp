@@ -1,0 +1,41 @@
+.loginMainBg {
+  background-color: black;
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+.labelText {
+  align-self: flex-start;
+  color: white;
+}
+.loginInnerBg {
+  background-color: #2c364c;
+  padding: 40px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 6px;
+}
+.loginImg {
+  height: 40px;
+  width: 100px;
+}
+.usernameInput {
+  background-color: transparent;
+  margin-top: 6px;
+  margin-bottom: 12px;
+  width: 100%;
+  height: 40px;
+  border-radius: 6px;
+}
+.buttonLogin {
+  background-color: #4f46e5;
+  color: white;
+  height: 40px;
+  width: 100%;
+  margin-top: 10px;
+  border-radius: 6px;
+}

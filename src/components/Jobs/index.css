@@ -1,0 +1,45 @@
+.jobsCont {
+  height: 100vh;
+}
+.jobsBottomCont {
+  height: 90%;
+  display: flex;
+  background-color: black;
+  overflow-y: scroll;
+}
+.jobsBottomLeftCont {
+  width: 32%;
+  height: 100%;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.jobsBottomRightCont {
+  width: 68%;
+  height: 100%;
+  padding: 30px;
+}
+.jobsUl {
+  list-style-type: none;
+}
+.jobInputCont {
+  height: 40px;
+  width: 250px;
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+}
+.jobBottomInputCont {
+  display: flex;
+}
+.jonSearchButton {
+  border: none;
+  background-color: #475569;
+  color: white;
+}
+.noDataCont {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

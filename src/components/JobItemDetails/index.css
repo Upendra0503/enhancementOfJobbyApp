@@ -1,0 +1,55 @@
+.jobItemLi {
+  color: white;
+  background-color: #7e858e;
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 10px;
+}
+.jonItemTopCont {
+  display: flex;
+}
+.jobLink {
+  text-decoration: none;
+}
+.jobItemImage {
+  height: 50px;
+  width: 50px;
+  align-self: center;
+  margin-right: 8px;
+}
+.jobItemTopRightCont {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+.jobItemTopRightBottomCont {
+  display: flex;
+  align-items: center;
+  margin-top: 0px;
+}
+.jobItemHead {
+  color: white;
+  font-size: 25px;
+}
+.jobItemRatingPara {
+  margin-left: 3px;
+  align-self: center;
+}
+.star {
+  align-content: center;
+}
+.jobItemMiddleCont {
+  display: flex;
+  justify-content: space-between;
+}
+.jonItemMiddleLeftCont {
+  display: flex;
+  align-items: center;
+}
+.jobItemLocationPara {
+  margin-left: 6px;
+  margin-right: 10px;
+}
+.jobItemEmployeePara {
+  margin-left: 4px;
+}
